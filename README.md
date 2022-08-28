@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-lakshmikanth
 - 😎 I'm a Technofreak
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently Exploring technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linkedin : lakshmikanth kasapuram
 
