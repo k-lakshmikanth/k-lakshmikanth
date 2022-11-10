@@ -1,9 +1,0 @@
-{
-	"name": "lksept-test",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "78d82e6d-06c5-4c79-bf6e-a5b892e08ab4",
-		"tenantId": "9f3c3f93-cad5-4e4f-b5be-749bf68a1c21"
-	}
-}
