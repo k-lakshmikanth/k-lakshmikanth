@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently Exploring technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedin : lakshmikanth kasapuram
+- 📫 How to reach me : <a href="https://www.linkedin.com/in/lakshmikanth-kasapuram-952068226/">LinkedIn</a>,<a href="mailto:lakshmikanthkasapuram007@gmail.com">Gmail</a>
 
 <!---
 k-lakshmikanth/k-lakshmikanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
